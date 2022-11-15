@@ -1,1 +1,1 @@
-# menu-component
+# mentoring-simple-webpack-starter
